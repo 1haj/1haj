@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1haj
 - 👀 I’m interested in Physics , Machine learning and dataScient
-- 🌱 I’m currently DataScientist 
+- 🌱 I’m currently a DataScientist 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
