@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1haj
 - 👀 I’m interested in Physics
-- 🌱 I’m currently learning gravity and particle physics
+- 🌱 I’m currently Scientist 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
